@@ -1,4 +1,4 @@
-# ForoHub - Proyecto Spring Boot (NetBeans)
+# ForoHub - Proyecto Spring Boot
 
 Proyecto minimal de ejemplo para el reto ForoHub. Incluye:
 - Spring Boot (Maven)
